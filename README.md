@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Mono-PQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono-pq&show_icons=true&theme=dracula)
