@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⛄️ Loves to experience snow one day.
 
 
-[![Mono-PQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono-pq)](https://github.com/mono-pq/github-readme-stats)
+### GitHub Stats
+
+[![Mono-PQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono-pq)](https://github.com/mono-pq/github-readme-stats&show_icons=true&theme=dracula)
