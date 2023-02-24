@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-[![Mono-PQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono-pq)](https://github.com/mono-pq/github-readme-stats&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
