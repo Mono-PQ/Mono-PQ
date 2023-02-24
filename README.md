@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 - 🔭 Working on mostly data-related projects in python.
 - 🌱 Learning more about data analytics and machine learning.
-- ⚡ Fun fact: Coding with interest. Trying not to be too bothered by systematic failures in 🏢. 
+- ⚡ Fun fact: Coding with interest. 
 - 🇸🇬 Currently in Singapore.
 - ⛄️ Loves to experience snow one day.
