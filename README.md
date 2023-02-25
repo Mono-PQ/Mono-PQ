@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 Working on mostly data-related projects in python.
+- 🔭 Working mostly on data-related projects in python.
 - 🌱 Learning more about data analytics and machine learning.
 - ⚡ Fun fact: Coding with interest. 
 - 🇸🇬 Currently in Singapore.
