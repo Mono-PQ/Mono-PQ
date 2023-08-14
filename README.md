@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 ![Mono-PQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mono-pq&show_icons=true&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mono-pq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
