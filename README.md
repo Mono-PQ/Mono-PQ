@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Mono-PQ/Mono-PQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working on data science and machine learning projects. 
-- 🌱 Learning more about MLOps and deployment.
-- ⚡ Needs more energy to balance Masters programme concurrently.  
-- 🇸🇬 Currently living in Singapore. Hope to travel and experience culture somewhere else.
-- ⛄️ Loves to experience snow one day.
+- 🌱 Learning MLOps and LLM.
+- ⚡ Undergoing Masters programme at Georgia Tech.  
+- 🇸🇬 Resides in SG.
+- ⛄️ Greatest wish to experience snow.
 
 
 ### GitHub Stats
